@@ -1,0 +1,12 @@
+email: nibaldo.perot.quevedo@gmail.com
+fullname: Tokaido
+title: Admin
+state: enabled
+access:
+  admin:
+    super: 'true'
+    login: 'true'
+  site:
+    login: 'true'
+hashed_password: $2y$10$fqhpIWnd1XpMssTYHIyyTutZr3MZbm1WmRL5IEzjL2qzUeKsZSk3K
+language: es
